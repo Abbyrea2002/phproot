@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    background-color: red;
+    color: azure;
+    text-align: center;
+}
+.nav{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    background-color: red;
+    color: azure;
+    text-align: center;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.nav{
+    color: azure;
+}
+.button {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+  }
+
